@@ -2,7 +2,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.mall4j.cloud</groupId>
-    <artifactId>mall4mine</artifactId>
+    <artifactId>mall4me</artifactId>
     <packaging>pom</packaging>
     <modules>
         <module>mall4cloud-gateway</module>
